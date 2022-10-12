@@ -63,7 +63,7 @@
     "google"
   ],
   "dependencies": {
-    "@gtm-support/core": "^2.0.0"
+    "@gtm-support/core": "git+ssh://git@github.com/yuanye7360/core.git#v2.0.2"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "~5.39.0",
