@@ -56,7 +56,7 @@
     "tsconfig.json"
   ],
   "dependencies": {
-    "@gtm-support/core": "1.1.0"
+    "@gtm-support/core": "git+ssh://git@github.com/yuanye7360/core.git#v2.0.2"
   },
   "devDependencies": {
     "@types/jest": "~27.0.2",

@@ -333,10 +333,9 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@gtm-support/core@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@gtm-support/core/-/core-1.1.0.tgz#bacc66e1b64a3c6b6302bb7feb81ba506c5330ba"
-  integrity sha512-GyiZEfKejkAQq2lDS0u2mv6NDVdNWqXi+uQX0zcBOsIpWHfQxWpuCeTTCSv3DZEKv2LMkC0cwv6ukVRJvPmpaA==
+"@gtm-support/core@git+ssh://git@github.com/yuanye7360/core.git#v2.0.2":
+  version "2.0.0"
+  resolved "git+ssh://git@github.com/yuanye7360/core.git#a0a574328459a6cd00c0581cfd262c5c2c1aff11"
 
 "@humanwhocodes/config-array@^0.5.0":
   version "0.5.0"
