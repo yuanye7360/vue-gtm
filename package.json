@@ -56,7 +56,7 @@
     "tsconfig.json"
   ],
   "dependencies": {
-    "@gtm-support/core": "git+ssh://git@github.com/yuanye7360/core.git#v3.0.0-alpha.1"
+    "@gtm-support/core": "git+ssh://git@github.com/yuanye7360/core.git#v3.0.1"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "~5.23.0",
